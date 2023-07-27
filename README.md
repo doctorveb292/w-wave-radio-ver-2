@@ -13,4 +13,4 @@
 кнопка "Что в эфире" в мобильной версии),аккордион и табы,слайдер,плавный переход по якорным ссылкам,бургер.
 - подключены и кастомизированы необходимые плагины и библиотеки (choices.min.css, just-validate-master, swiper и т.д)
 
-![1920](https://github.com/doctorveb292/w-wave-radio-ver.2/raw/main/Desktop.png)
+![1920](https://github.com/doctorveb292/w-wave-radio-ver-2/raw/main/Desktop.png)
